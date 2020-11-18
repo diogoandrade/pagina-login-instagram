@@ -7,8 +7,8 @@ https://www.linkedin.com/in/gabrielapinheiro129/
 
 Edição no VSCode:
 
-![VSCode](code.png)
+[![code.png](https://i.postimg.cc/9X9cy7Q4/code.png)](https://postimg.cc/nMH8JM7Z)
 
 Resultado:
 
-![image-20201117124415841](C:\Users\diogo\AppData\Roaming\Typora\typora-user-images\image-20201117124415841.png)
+[![print.png](https://i.postimg.cc/C5CyXbRm/print.png)](https://postimg.cc/p5d1nhYF)
