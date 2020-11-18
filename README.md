@@ -7,7 +7,7 @@ https://www.linkedin.com/in/gabrielapinheiro129/
 
 Edição no VSCode:
 
-![](C:\Users\diogo\AppData\Roaming\Typora\typora-user-images\image-20201117124218081.png)
+![VSCode](code.png)
 
 Resultado:
 
